@@ -1,5 +1,5 @@
 
-#created by sun <SunSoftwares.pvt>
+#created by sun <xxsunxxrose@gmail.com>
 #Open source freely distributable
 #2016-17
 #Thanks for using it
