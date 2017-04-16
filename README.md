@@ -52,5 +52,5 @@ Download by range options are
 ![ScreenShot](https://github.com/sunx2/r34py/raw/master/photos/screenshot1.png)
 
 
-![ScreenShot](https://github.com/sunx2/r34py/raw/master/photos/screenshot2png)
+![ScreenShot](https://github.com/sunx2/r34py/raw/master/photos/screenshot2.png)
 
