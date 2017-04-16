@@ -1,5 +1,7 @@
 # Rule34 Image Downloader
 
+*its a full hobby file and i will not take any responsibility for the things you do with this , read license for more info*
+
 Rule34 image downloader using bs4 and requests for **linux systems .**
 
 This is a simple script created with python to download images from rule34
